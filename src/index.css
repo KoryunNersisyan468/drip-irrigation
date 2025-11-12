@@ -1,0 +1,7 @@
+@import url('https://unpkg.com/leaflet/dist/leaflet.css');
+@import "tailwindcss";
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: linear-gradient(180deg, #c3f0e1 0%, #ffffff 100%);
+}
