@@ -21,7 +21,7 @@ const Contact: React.FC = () => {
   };
 
   return (
-    <section className="max-w-6xl mx-auto px-6 py-16 bg-gradient-to-r from-[#d1fae5] to-[#f0fdfa] rounded-3xl text-center shadow-lg">
+    <section className="max-w-6xl mx-auto px-6 py-16 bg-[#f0fdfa] rounded-3xl text-center shadow-lg">
       <h2 className="text-3xl font-bold mb-8">Կապ</h2>
 
       <div className="flex flex-col sm:flex-row justify-center items-center gap-4 mb-6">

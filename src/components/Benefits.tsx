@@ -3,7 +3,7 @@ import { m } from "framer-motion";
 import { benefitsData } from "../data/benefitsData";
 
 const Benefits: React.FC = () => (
-  <section className="max-w-6xl mx-auto px-6 py-16 bg-[#ecfeff] rounded-3xl">
+  <section className="max-w-6xl mx-auto px-6 py-16 bg-[#f0fdfa] rounded-3xl">
     <m.h2
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
